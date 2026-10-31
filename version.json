@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "windows": {
-    "url": "https://github.com/cotre07cot-droid/smart-translator-releases/releases/download/v1.0.1/SmartTranslator_Setup.exe",
-    "sha256": "c1844b7b131e589901db928d734d2fb003dd645ff5e83b4340a561e5f529f19e"
+    "url": "https://github.com/cotre07cot-droid/smart-translator-releases/releases/download/v1.0.2/SmartTranslator_Setup.exe",
+    "sha256": "b6e9fcd4c615ebb1b606520fc52ad5055ebe410db5240524f7989dca470280ad"
   },
   "macos": {
     "url": "",
